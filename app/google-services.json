@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5778335927",
+    "firebase_url": "https://textychat-3388a.firebaseio.com",
+    "project_id": "textychat-3388a",
+    "storage_bucket": "textychat-3388a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5778335927:android:1cab1507833e4b90",
+        "android_client_info": {
+          "package_name": "epicodus.instantmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5778335927-3e6ttg3l3ju9dvfhg4psffauculs49q2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "epicodus.instantmessage",
+            "certificate_hash": "A4AAAE07D78E69A30F5F6D951F3D40ED10734454"
+          }
+        },
+        {
+          "client_id": "5778335927-phkgt9o8u5plbb5u0u3g9vm3thhp12rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN1-j8L-jYoRownT-BufSCTPT2Dp6qe7s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5778335927-phkgt9o8u5plbb5u0u3g9vm3thhp12rh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
